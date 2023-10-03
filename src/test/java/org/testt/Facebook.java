@@ -1,4 +1,4 @@
-package org.pages;
+package org.testt;
 
 import java.util.Date;
 
@@ -9,6 +9,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.pages.LoginPage;
+import org.pages.RegestrationPage;
 
 public class Facebook extends BaseClass {
 	
